@@ -43,7 +43,7 @@ Web Menu Hide/Show
     'css' : [
         'static/src/css/web_menu_hide.css'
     ],
-    'auto_install': True,
+    'auto_install': False,
     'installable': True,
-    'application': True,
+    'application': False,
 }
